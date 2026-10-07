@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./Estifanos Wendmu Tech Banner 2.png"
+    src="./Estifanos Wendmu Tech Banner 3.png"
     alt="Abstract Code Matrix Banner"
     width="100%"
   />
