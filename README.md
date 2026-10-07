@@ -10,14 +10,14 @@
 
   <a href="https://linkedin.com">
     <img
-      height="30"
+      style="height: 30px"
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
   <a href="https://my-portfolio-steve.vercel.app">
     <img
-      height="30"
+      style="height: 30px"
       src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white"
       alt="Portfolio"
     />
