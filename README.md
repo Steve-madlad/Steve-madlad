@@ -1,10 +1,27 @@
 <div align="center">
-  <img src="./Estifanos Wendmu Tech Banner 2.png" alt="Abstract Code Matrix Banner" width="100%" style="display: block; border-radius: 10px;" />
-  
-  <p style="margin-top: 3rem;">
-    <a href="https://linkedin.com"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://my-portfolio-steve.vercel.app"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio" /></a>
-  </p>
+  <img
+    src="./Estifanos Wendmu Tech Banner 2.png"
+    alt="Abstract Code Matrix Banner"
+    width="100%"
+  />
+
+  <br />
+  <br />
+
+  <a href="https://linkedin.com">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://my-portfolio-steve.vercel.app">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
 </div>
 
 ## About Me
