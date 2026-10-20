@@ -67,7 +67,7 @@ In addition to full-stack feature delivery, I focus heavily on frontend performa
 ### Database, Cloud & Services
 <p>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-webservices&logoColor=white" alt="AWS" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></a> </p>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></a>
   <a href="https://postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
   <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /></a>
